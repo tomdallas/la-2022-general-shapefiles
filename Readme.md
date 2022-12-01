@@ -1,6 +1,6 @@
-# Los Angeles County June 7, 2022 Primary Election geodata
+# Los Angeles County November 8th, 2022 General Election geodata
 
-This repo contains a geodatabase and geojson files to use with LA County election results from the June 7, 2022 primary.
+This repo contains a geodatabase and geojson files to use with LA County election results from the November 8th, 2022 General.
 
 The files are in the `geojson-by-race` directory.
 
